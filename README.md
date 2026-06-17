@@ -48,13 +48,11 @@ To analyze business data and create interactive visual dashboards for better dec
 
 \- README.md → Project documentation  
 
-Dashboard Preview:
+### Dashboard Overview
+![Dashboard Overview](Dashboard%20Overview.png)
 
-Dashboard Overview:
-"C:\Users\ANAKSHA\OneDrive\文档\Data Analytics Projects\Ecommerce Sales Analytics\Dashboard Overview.png"
-
-Segment Analysis:
-"C:\Users\ANAKSHA\OneDrive\文档\Data Analytics Projects\Ecommerce Sales Analytics\Segment.png"
+### Segment Analysis
+![Segment Analysis](Segment.png)
 
 
 
