@@ -42,7 +42,7 @@ To analyze business data and create interactive visual dashboards for better dec
 
 
 
-\- dataset.xlsx → Raw data used for analysis  
+\- Superstore_Sales_Analysis.xlsx → Raw data used for analysis  
 
 \- Superstore\_Sales\_Profit\_Dashboard.pbix → Power BI dashboard  
 
@@ -51,10 +51,10 @@ To analyze business data and create interactive visual dashboards for better dec
 Dashboard Preview:
 
 Dashboard Overview:
-https://github.com/anaksha-005/E-commerce_Sales_Analytics_Project/blob/main/Dashboard%20Overview.png
+"C:\Users\ANAKSHA\OneDrive\文档\Data Analytics Projects\Ecommerce Sales Analytics\Dashboard Overview.png"
 
 Segment Analysis:
-https://github.com/anaksha-005/E-commerce_Sales_Analytics_Project/blob/main/Segment.png
+"C:\Users\ANAKSHA\OneDrive\文档\Data Analytics Projects\Ecommerce Sales Analytics\Segment.png"
 
 
 
