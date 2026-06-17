@@ -48,6 +48,15 @@ To analyze business data and create interactive visual dashboards for better dec
 
 \- README.md → Project documentation  
 
+Dashboard Preview:
+
+Dashboard Overview:
+https://github.com/anaksha-005/E-commerce_Sales_Analytics_Project/blob/main/Dashboard%20Overview.png
+
+Segment Analysis:
+https://github.com/anaksha-005/E-commerce_Sales_Analytics_Project/blob/main/Segment.png
+
+
 
 **Key Insights:**
 
