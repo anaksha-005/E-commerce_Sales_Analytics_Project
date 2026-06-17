@@ -48,7 +48,13 @@ To analyze business data and create interactive visual dashboards for better dec
 
 \- README.md → Project documentation  
 
+Dashboard Preview:
 
+Dashboard Overview Image:
+Dashboard Overview.png
+
+Segment Analysis Image:
+Segment.png
 
 **Key Insights:**
 
